@@ -1,0 +1,2161 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://yeun.github.io/open-color/
+Subject: Open Color
+Date: Sat, 11 Feb 2023 12:58:47 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--J0DSIFmUClVm9wqNSPZqcpEhXBCIVYh6mMDIUBRZOB----"
+
+
+------MultipartBoundary--J0DSIFmUClVm9wqNSPZqcpEhXBCIVYh6mMDIUBRZOB----
+Content-Type: text/html
+Content-ID: <frame-C9F50E0D2BFED068464299B3463B3955@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://yeun.github.io/open-color/
+
+<!DOCTYPE html><html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Open Color</title>
+    <link rel="shortcut icon" href="https://yeun.github.io/open-color/asset/favicon/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://yeun.github.io/open-color/asset/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://yeun.github.io/open-color/asset/favicon/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" href="https://yeun.github.io/open-color/asset/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://yeun.github.io/open-color/asset/favicon/favicon-16x16.png" sizes="16x16">
+    <meta name="description" content="Color scheme for UI design">
+    <meta name="application-name" content="Open Color">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/open-color/asset/favicon/mstile-144x144.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@_heeyeun">
+    <meta name="twitter:creator" content="@_heeyeun">
+    <meta property="og:title" content="Open Color">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yeun.github.io/open-color/">
+    <meta property="og:description" content="Color scheme for UI design">
+    <meta property="og:image" content="https://yeun.github.io/open-color/asset/images/og-image.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" type="text/css" href="https://yeun.github.io/open-color/stylesheets/normalize.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://yeun.github.io/open-color/stylesheets/style.css" media="screen">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700" rel="stylesheet" type="text/css">
+    
+  </head>
+  <body>
+    <div class="navigation">
+      <div class="container">
+        <a class="blog-logo" href="https://yeun.github.io/open-color/"></a>
+        <div class="navbar">
+          <input type="checkbox" id="navbar-toggle">
+          <label for="navbar-toggle" class="navbar-toggle"></label>
+          <ul class="nav-menus-wrap">
+            <li class="nav-menus-group">
+              <a class="menus-title
+                        
+                        active
+                        " href="https://yeun.github.io/open-color/">Swatches</a>
+            </li>
+            <li class="nav-menus-group">
+              <a class="menus-title
+                        " href="https://yeun.github.io/open-color/ingredients.html">Ingredients</a>
+            </li>
+            <li class="nav-menus-group">
+              <a class="menus-title
+                        ">Instructions</a>
+              <ul class="nav-menus">
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/documents.html">Documents</a></li>
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/gray-color.html">Gray Color</a></li>
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/chromatic-colors.html">Chromatic Color</a></li>
+              </ul>
+            </li>
+            <li class="nav-menus-group">
+              <button class="menus-title" type="button">Downloads</button>
+              <ul class="nav-menus">
+                <li><a class="nav-menu" href="https://github.com/yeun/open-color/releases/download/v1.9.1/open-color.zip" download="">Source code</a></li>
+                <li><a class="nav-menu" href="http://adobe.ly/2cYxrjk" target="blank">Adobe library</a></li>
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/asset/download/open-color_1.9.1.aco" download="">Photoshop swatches</a></li>
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/asset/download/open-color_1.9.1.ase" download="">Illustrator swatches</a></li>
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/asset/download/open-color_1.9.1.sketchpalette" download="">Sketch palette</a></li>
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/asset/download/open-color_1.9.1.gpl" download="">Inkscape swatches</a></li>
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/asset/download/open-color_1.9.1.clr" download="">Mac OS palette</a></li>
+                <li><a class="nav-menu" href="https://yeun.github.io/open-color/asset/download/open-color_1.9.1.code-snippets" download="">VS Code Snippets</a></li>
+                <li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>
+              </ul>
+            </li>
+            <li class="nav-menus-group"><a class="menus-title menus-github" href="https://github.com/yeun/open-color">GitHub</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <section class="cover">
+        <div class="cover-content">
+          <h1>
+            Open color is an <br>
+            <span class="no-wrap">open-source</span>
+            <span class="no-wrap">color scheme</span>
+            <div class="sub">Optimized for UI like font, background, border, etc.</div>
+          </h1>
+          <div class="metadata">
+            <div class="version">
+              Version 1.9.1
+            </div>
+            <div class="license">
+              MIT license
+            </div>
+          </div>
+        </div>
+        
+      </section>
+    </div>
+    <div class="container">
+      <div class="row">
+  <div class="shortcut-wrap">
+  <ul class="shortcut-menus">
+  
+    <li><a class="shortcut gray" href="https://yeun.github.io/open-color/#gray">
+      <span class="list-color list-color-gray"></span>gray
+    </a></li>
+  
+    <li><a class="shortcut red" href="https://yeun.github.io/open-color/#red">
+      <span class="list-color list-color-red"></span>red
+    </a></li>
+  
+    <li><a class="shortcut pink" href="https://yeun.github.io/open-color/#pink">
+      <span class="list-color list-color-pink"></span>pink
+    </a></li>
+  
+    <li><a class="shortcut grape" href="https://yeun.github.io/open-color/#grape">
+      <span class="list-color list-color-grape"></span>grape
+    </a></li>
+  
+    <li><a class="shortcut violet" href="https://yeun.github.io/open-color/#violet">
+      <span class="list-color list-color-violet"></span>violet
+    </a></li>
+  
+    <li><a class="shortcut indigo" href="https://yeun.github.io/open-color/#indigo">
+      <span class="list-color list-color-indigo"></span>indigo
+    </a></li>
+  
+    <li><a class="shortcut blue" href="https://yeun.github.io/open-color/#blue">
+      <span class="list-color list-color-blue"></span>blue
+    </a></li>
+  
+    <li><a class="shortcut cyan" href="https://yeun.github.io/open-color/#cyan">
+      <span class="list-color list-color-cyan"></span>cyan
+    </a></li>
+  
+    <li><a class="shortcut teal" href="https://yeun.github.io/open-color/#teal">
+      <span class="list-color list-color-teal"></span>teal
+    </a></li>
+  
+    <li><a class="shortcut green" href="https://yeun.github.io/open-color/#green">
+      <span class="list-color list-color-green"></span>green
+    </a></li>
+  
+    <li><a class="shortcut lime" href="https://yeun.github.io/open-color/#lime">
+      <span class="list-color list-color-lime"></span>lime
+    </a></li>
+  
+    <li><a class="shortcut yellow" href="https://yeun.github.io/open-color/#yellow">
+      <span class="list-color list-color-yellow"></span>yellow
+    </a></li>
+  
+    <li><a class="shortcut orange" href="https://yeun.github.io/open-color/#orange">
+      <span class="list-color list-color-orange"></span>orange
+    </a></li>
+  
+  </ul>
+</div>
+  <section class="color-wrap">
+    
+    <section class="color-group" id="gray">
+      <h3 class="color-title">
+        gray
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="gray-0">
+            <div class="ripple color-chip-bg bg-gray-0">
+            </div>
+            <div class="color-name">gray 0</div>
+            <input class="color-hex" type="text" readonly="" value="#f8f9fa">
+          </div>
+          
+          <div class="color-chip" id="gray-1">
+            <div class="ripple color-chip-bg bg-gray-1">
+            </div>
+            <div class="color-name">gray 1</div>
+            <input class="color-hex" type="text" readonly="" value="#f1f3f5">
+          </div>
+          
+          <div class="color-chip" id="gray-2">
+            <div class="ripple color-chip-bg bg-gray-2">
+            </div>
+            <div class="color-name">gray 2</div>
+            <input class="color-hex" type="text" readonly="" value="#e9ecef">
+          </div>
+          
+          <div class="color-chip" id="gray-3">
+            <div class="ripple color-chip-bg bg-gray-3">
+            </div>
+            <div class="color-name">gray 3</div>
+            <input class="color-hex" type="text" readonly="" value="#dee2e6">
+          </div>
+          
+          <div class="color-chip" id="gray-4">
+            <div class="ripple color-chip-bg bg-gray-4">
+            </div>
+            <div class="color-name">gray 4</div>
+            <input class="color-hex" type="text" readonly="" value="#ced4da">
+          </div>
+          
+          <div class="color-chip" id="gray-5">
+            <div class="ripple color-chip-bg bg-gray-5">
+            </div>
+            <div class="color-name">gray 5</div>
+            <input class="color-hex" type="text" readonly="" value="#adb5bd">
+          </div>
+          
+          <div class="color-chip" id="gray-6">
+            <div class="ripple color-chip-bg bg-gray-6">
+            </div>
+            <div class="color-name">gray 6</div>
+            <input class="color-hex" type="text" readonly="" value="#868e96">
+          </div>
+          
+          <div class="color-chip" id="gray-7">
+            <div class="ripple color-chip-bg bg-gray-7">
+            </div>
+            <div class="color-name">gray 7</div>
+            <input class="color-hex" type="text" readonly="" value="#495057">
+          </div>
+          
+          <div class="color-chip" id="gray-8">
+            <div class="ripple color-chip-bg bg-gray-8">
+            </div>
+            <div class="color-name">gray 8</div>
+            <input class="color-hex" type="text" readonly="" value="#343a40">
+          </div>
+          
+          <div class="color-chip" id="gray-9">
+            <div class="ripple color-chip-bg bg-gray-9">
+            </div>
+            <div class="color-name">gray 9</div>
+            <input class="color-hex" type="text" readonly="" value="#212529">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="red">
+      <h3 class="color-title">
+        red
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="red-0">
+            <div class="ripple color-chip-bg bg-red-0">
+            </div>
+            <div class="color-name">red 0</div>
+            <input class="color-hex" type="text" readonly="" value="#fff5f5">
+          </div>
+          
+          <div class="color-chip" id="red-1">
+            <div class="ripple color-chip-bg bg-red-1">
+            </div>
+            <div class="color-name">red 1</div>
+            <input class="color-hex" type="text" readonly="" value="#ffe3e3">
+          </div>
+          
+          <div class="color-chip" id="red-2">
+            <div class="ripple color-chip-bg bg-red-2">
+            </div>
+            <div class="color-name">red 2</div>
+            <input class="color-hex" type="text" readonly="" value="#ffc9c9">
+          </div>
+          
+          <div class="color-chip" id="red-3">
+            <div class="ripple color-chip-bg bg-red-3">
+            </div>
+            <div class="color-name">red 3</div>
+            <input class="color-hex" type="text" readonly="" value="#ffa8a8">
+          </div>
+          
+          <div class="color-chip" id="red-4">
+            <div class="ripple color-chip-bg bg-red-4">
+            </div>
+            <div class="color-name">red 4</div>
+            <input class="color-hex" type="text" readonly="" value="#ff8787">
+          </div>
+          
+          <div class="color-chip" id="red-5">
+            <div class="ripple color-chip-bg bg-red-5">
+            </div>
+            <div class="color-name">red 5</div>
+            <input class="color-hex" type="text" readonly="" value="#ff6b6b">
+          </div>
+          
+          <div class="color-chip" id="red-6">
+            <div class="ripple color-chip-bg bg-red-6">
+            </div>
+            <div class="color-name">red 6</div>
+            <input class="color-hex" type="text" readonly="" value="#fa5252">
+          </div>
+          
+          <div class="color-chip" id="red-7">
+            <div class="ripple color-chip-bg bg-red-7">
+            </div>
+            <div class="color-name">red 7</div>
+            <input class="color-hex" type="text" readonly="" value="#f03e3e">
+          </div>
+          
+          <div class="color-chip" id="red-8">
+            <div class="ripple color-chip-bg bg-red-8">
+            </div>
+            <div class="color-name">red 8</div>
+            <input class="color-hex" type="text" readonly="" value="#e03131">
+          </div>
+          
+          <div class="color-chip" id="red-9">
+            <div class="ripple color-chip-bg bg-red-9">
+            </div>
+            <div class="color-name">red 9</div>
+            <input class="color-hex" type="text" readonly="" value="#c92a2a">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="pink">
+      <h3 class="color-title">
+        pink
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="pink-0">
+            <div class="ripple color-chip-bg bg-pink-0">
+            </div>
+            <div class="color-name">pink 0</div>
+            <input class="color-hex" type="text" readonly="" value="#fff0f6">
+          </div>
+          
+          <div class="color-chip" id="pink-1">
+            <div class="ripple color-chip-bg bg-pink-1">
+            </div>
+            <div class="color-name">pink 1</div>
+            <input class="color-hex" type="text" readonly="" value="#ffdeeb">
+          </div>
+          
+          <div class="color-chip" id="pink-2">
+            <div class="ripple color-chip-bg bg-pink-2">
+            </div>
+            <div class="color-name">pink 2</div>
+            <input class="color-hex" type="text" readonly="" value="#fcc2d7">
+          </div>
+          
+          <div class="color-chip" id="pink-3">
+            <div class="ripple color-chip-bg bg-pink-3">
+            </div>
+            <div class="color-name">pink 3</div>
+            <input class="color-hex" type="text" readonly="" value="#faa2c1">
+          </div>
+          
+          <div class="color-chip" id="pink-4">
+            <div class="ripple color-chip-bg bg-pink-4">
+            </div>
+            <div class="color-name">pink 4</div>
+            <input class="color-hex" type="text" readonly="" value="#f783ac">
+          </div>
+          
+          <div class="color-chip" id="pink-5">
+            <div class="ripple color-chip-bg bg-pink-5">
+            </div>
+            <div class="color-name">pink 5</div>
+            <input class="color-hex" type="text" readonly="" value="#f06595">
+          </div>
+          
+          <div class="color-chip" id="pink-6">
+            <div class="ripple color-chip-bg bg-pink-6">
+            </div>
+            <div class="color-name">pink 6</div>
+            <input class="color-hex" type="text" readonly="" value="#e64980">
+          </div>
+          
+          <div class="color-chip" id="pink-7">
+            <div class="ripple color-chip-bg bg-pink-7">
+            </div>
+            <div class="color-name">pink 7</div>
+            <input class="color-hex" type="text" readonly="" value="#d6336c">
+          </div>
+          
+          <div class="color-chip" id="pink-8">
+            <div class="ripple color-chip-bg bg-pink-8">
+            </div>
+            <div class="color-name">pink 8</div>
+            <input class="color-hex" type="text" readonly="" value="#c2255c">
+          </div>
+          
+          <div class="color-chip" id="pink-9">
+            <div class="ripple color-chip-bg bg-pink-9">
+            </div>
+            <div class="color-name">pink 9</div>
+            <input class="color-hex" type="text" readonly="" value="#a61e4d">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="grape">
+      <h3 class="color-title">
+        grape
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="grape-0">
+            <div class="ripple color-chip-bg bg-grape-0">
+            </div>
+            <div class="color-name">grape 0</div>
+            <input class="color-hex" type="text" readonly="" value="#f8f0fc">
+          </div>
+          
+          <div class="color-chip" id="grape-1">
+            <div class="ripple color-chip-bg bg-grape-1">
+            </div>
+            <div class="color-name">grape 1</div>
+            <input class="color-hex" type="text" readonly="" value="#f3d9fa">
+          </div>
+          
+          <div class="color-chip" id="grape-2">
+            <div class="ripple color-chip-bg bg-grape-2">
+            </div>
+            <div class="color-name">grape 2</div>
+            <input class="color-hex" type="text" readonly="" value="#eebefa">
+          </div>
+          
+          <div class="color-chip" id="grape-3">
+            <div class="ripple color-chip-bg bg-grape-3">
+            </div>
+            <div class="color-name">grape 3</div>
+            <input class="color-hex" type="text" readonly="" value="#e599f7">
+          </div>
+          
+          <div class="color-chip" id="grape-4">
+            <div class="ripple color-chip-bg bg-grape-4">
+            </div>
+            <div class="color-name">grape 4</div>
+            <input class="color-hex" type="text" readonly="" value="#da77f2">
+          </div>
+          
+          <div class="color-chip" id="grape-5">
+            <div class="ripple color-chip-bg bg-grape-5">
+            </div>
+            <div class="color-name">grape 5</div>
+            <input class="color-hex" type="text" readonly="" value="#cc5de8">
+          </div>
+          
+          <div class="color-chip" id="grape-6">
+            <div class="ripple color-chip-bg bg-grape-6">
+            </div>
+            <div class="color-name">grape 6</div>
+            <input class="color-hex" type="text" readonly="" value="#be4bdb">
+          </div>
+          
+          <div class="color-chip" id="grape-7">
+            <div class="ripple color-chip-bg bg-grape-7">
+            </div>
+            <div class="color-name">grape 7</div>
+            <input class="color-hex" type="text" readonly="" value="#ae3ec9">
+          </div>
+          
+          <div class="color-chip" id="grape-8">
+            <div class="ripple color-chip-bg bg-grape-8">
+            </div>
+            <div class="color-name">grape 8</div>
+            <input class="color-hex" type="text" readonly="" value="#9c36b5">
+          </div>
+          
+          <div class="color-chip" id="grape-9">
+            <div class="ripple color-chip-bg bg-grape-9">
+            </div>
+            <div class="color-name">grape 9</div>
+            <input class="color-hex" type="text" readonly="" value="#862e9c">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="violet">
+      <h3 class="color-title">
+        violet
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="violet-0">
+            <div class="ripple color-chip-bg bg-violet-0">
+            </div>
+            <div class="color-name">violet 0</div>
+            <input class="color-hex" type="text" readonly="" value="#f3f0ff">
+          </div>
+          
+          <div class="color-chip" id="violet-1">
+            <div class="ripple color-chip-bg bg-violet-1">
+            </div>
+            <div class="color-name">violet 1</div>
+            <input class="color-hex" type="text" readonly="" value="#e5dbff">
+          </div>
+          
+          <div class="color-chip" id="violet-2">
+            <div class="ripple color-chip-bg bg-violet-2">
+            </div>
+            <div class="color-name">violet 2</div>
+            <input class="color-hex" type="text" readonly="" value="#d0bfff">
+          </div>
+          
+          <div class="color-chip" id="violet-3">
+            <div class="ripple color-chip-bg bg-violet-3">
+            </div>
+            <div class="color-name">violet 3</div>
+            <input class="color-hex" type="text" readonly="" value="#b197fc">
+          </div>
+          
+          <div class="color-chip" id="violet-4">
+            <div class="ripple color-chip-bg bg-violet-4">
+            </div>
+            <div class="color-name">violet 4</div>
+            <input class="color-hex" type="text" readonly="" value="#9775fa">
+          </div>
+          
+          <div class="color-chip" id="violet-5">
+            <div class="ripple color-chip-bg bg-violet-5">
+            </div>
+            <div class="color-name">violet 5</div>
+            <input class="color-hex" type="text" readonly="" value="#845ef7">
+          </div>
+          
+          <div class="color-chip" id="violet-6">
+            <div class="ripple color-chip-bg bg-violet-6">
+            </div>
+            <div class="color-name">violet 6</div>
+            <input class="color-hex" type="text" readonly="" value="#7950f2">
+          </div>
+          
+          <div class="color-chip" id="violet-7">
+            <div class="ripple color-chip-bg bg-violet-7">
+            </div>
+            <div class="color-name">violet 7</div>
+            <input class="color-hex" type="text" readonly="" value="#7048e8">
+          </div>
+          
+          <div class="color-chip" id="violet-8">
+            <div class="ripple color-chip-bg bg-violet-8">
+            </div>
+            <div class="color-name">violet 8</div>
+            <input class="color-hex" type="text" readonly="" value="#6741d9">
+          </div>
+          
+          <div class="color-chip" id="violet-9">
+            <div class="ripple color-chip-bg bg-violet-9">
+            </div>
+            <div class="color-name">violet 9</div>
+            <input class="color-hex" type="text" readonly="" value="#5f3dc4">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="indigo">
+      <h3 class="color-title">
+        indigo
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="indigo-0">
+            <div class="ripple color-chip-bg bg-indigo-0">
+            </div>
+            <div class="color-name">indigo 0</div>
+            <input class="color-hex" type="text" readonly="" value="#edf2ff">
+          </div>
+          
+          <div class="color-chip" id="indigo-1">
+            <div class="ripple color-chip-bg bg-indigo-1">
+            </div>
+            <div class="color-name">indigo 1</div>
+            <input class="color-hex" type="text" readonly="" value="#dbe4ff">
+          </div>
+          
+          <div class="color-chip" id="indigo-2">
+            <div class="ripple color-chip-bg bg-indigo-2">
+            </div>
+            <div class="color-name">indigo 2</div>
+            <input class="color-hex" type="text" readonly="" value="#bac8ff">
+          </div>
+          
+          <div class="color-chip" id="indigo-3">
+            <div class="ripple color-chip-bg bg-indigo-3">
+            </div>
+            <div class="color-name">indigo 3</div>
+            <input class="color-hex" type="text" readonly="" value="#91a7ff">
+          </div>
+          
+          <div class="color-chip" id="indigo-4">
+            <div class="ripple color-chip-bg bg-indigo-4">
+            </div>
+            <div class="color-name">indigo 4</div>
+            <input class="color-hex" type="text" readonly="" value="#748ffc">
+          </div>
+          
+          <div class="color-chip" id="indigo-5">
+            <div class="ripple color-chip-bg bg-indigo-5">
+            </div>
+            <div class="color-name">indigo 5</div>
+            <input class="color-hex" type="text" readonly="" value="#5c7cfa">
+          </div>
+          
+          <div class="color-chip" id="indigo-6">
+            <div class="ripple color-chip-bg bg-indigo-6">
+            </div>
+            <div class="color-name">indigo 6</div>
+            <input class="color-hex" type="text" readonly="" value="#4c6ef5">
+          </div>
+          
+          <div class="color-chip" id="indigo-7">
+            <div class="ripple color-chip-bg bg-indigo-7">
+            </div>
+            <div class="color-name">indigo 7</div>
+            <input class="color-hex" type="text" readonly="" value="#4263eb">
+          </div>
+          
+          <div class="color-chip" id="indigo-8">
+            <div class="ripple color-chip-bg bg-indigo-8">
+            </div>
+            <div class="color-name">indigo 8</div>
+            <input class="color-hex" type="text" readonly="" value="#3b5bdb">
+          </div>
+          
+          <div class="color-chip" id="indigo-9">
+            <div class="ripple color-chip-bg bg-indigo-9">
+            </div>
+            <div class="color-name">indigo 9</div>
+            <input class="color-hex" type="text" readonly="" value="#364fc7">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="blue">
+      <h3 class="color-title">
+        blue
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="blue-0">
+            <div class="ripple color-chip-bg bg-blue-0">
+            </div>
+            <div class="color-name">blue 0</div>
+            <input class="color-hex" type="text" readonly="" value="#e7f5ff">
+          </div>
+          
+          <div class="color-chip" id="blue-1">
+            <div class="ripple color-chip-bg bg-blue-1">
+            </div>
+            <div class="color-name">blue 1</div>
+            <input class="color-hex" type="text" readonly="" value="#d0ebff">
+          </div>
+          
+          <div class="color-chip" id="blue-2">
+            <div class="ripple color-chip-bg bg-blue-2">
+            </div>
+            <div class="color-name">blue 2</div>
+            <input class="color-hex" type="text" readonly="" value="#a5d8ff">
+          </div>
+          
+          <div class="color-chip" id="blue-3">
+            <div class="ripple color-chip-bg bg-blue-3">
+            </div>
+            <div class="color-name">blue 3</div>
+            <input class="color-hex" type="text" readonly="" value="#74c0fc">
+          </div>
+          
+          <div class="color-chip" id="blue-4">
+            <div class="ripple color-chip-bg bg-blue-4">
+            </div>
+            <div class="color-name">blue 4</div>
+            <input class="color-hex" type="text" readonly="" value="#4dabf7">
+          </div>
+          
+          <div class="color-chip" id="blue-5">
+            <div class="ripple color-chip-bg bg-blue-5">
+            </div>
+            <div class="color-name">blue 5</div>
+            <input class="color-hex" type="text" readonly="" value="#339af0">
+          </div>
+          
+          <div class="color-chip" id="blue-6">
+            <div class="ripple color-chip-bg bg-blue-6">
+            </div>
+            <div class="color-name">blue 6</div>
+            <input class="color-hex" type="text" readonly="" value="#228be6">
+          </div>
+          
+          <div class="color-chip" id="blue-7">
+            <div class="ripple color-chip-bg bg-blue-7">
+            </div>
+            <div class="color-name">blue 7</div>
+            <input class="color-hex" type="text" readonly="" value="#1c7ed6">
+          </div>
+          
+          <div class="color-chip" id="blue-8">
+            <div class="ripple color-chip-bg bg-blue-8">
+            </div>
+            <div class="color-name">blue 8</div>
+            <input class="color-hex" type="text" readonly="" value="#1971c2">
+          </div>
+          
+          <div class="color-chip" id="blue-9">
+            <div class="ripple color-chip-bg bg-blue-9">
+            </div>
+            <div class="color-name">blue 9</div>
+            <input class="color-hex" type="text" readonly="" value="#1864ab">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="cyan">
+      <h3 class="color-title">
+        cyan
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="cyan-0">
+            <div class="ripple color-chip-bg bg-cyan-0">
+            </div>
+            <div class="color-name">cyan 0</div>
+            <input class="color-hex" type="text" readonly="" value="#e3fafc">
+          </div>
+          
+          <div class="color-chip" id="cyan-1">
+            <div class="ripple color-chip-bg bg-cyan-1">
+            </div>
+            <div class="color-name">cyan 1</div>
+            <input class="color-hex" type="text" readonly="" value="#c5f6fa">
+          </div>
+          
+          <div class="color-chip" id="cyan-2">
+            <div class="ripple color-chip-bg bg-cyan-2">
+            </div>
+            <div class="color-name">cyan 2</div>
+            <input class="color-hex" type="text" readonly="" value="#99e9f2">
+          </div>
+          
+          <div class="color-chip" id="cyan-3">
+            <div class="ripple color-chip-bg bg-cyan-3">
+            </div>
+            <div class="color-name">cyan 3</div>
+            <input class="color-hex" type="text" readonly="" value="#66d9e8">
+          </div>
+          
+          <div class="color-chip" id="cyan-4">
+            <div class="ripple color-chip-bg bg-cyan-4">
+            </div>
+            <div class="color-name">cyan 4</div>
+            <input class="color-hex" type="text" readonly="" value="#3bc9db">
+          </div>
+          
+          <div class="color-chip" id="cyan-5">
+            <div class="ripple color-chip-bg bg-cyan-5">
+            </div>
+            <div class="color-name">cyan 5</div>
+            <input class="color-hex" type="text" readonly="" value="#22b8cf">
+          </div>
+          
+          <div class="color-chip" id="cyan-6">
+            <div class="ripple color-chip-bg bg-cyan-6">
+            </div>
+            <div class="color-name">cyan 6</div>
+            <input class="color-hex" type="text" readonly="" value="#15aabf">
+          </div>
+          
+          <div class="color-chip" id="cyan-7">
+            <div class="ripple color-chip-bg bg-cyan-7">
+            </div>
+            <div class="color-name">cyan 7</div>
+            <input class="color-hex" type="text" readonly="" value="#1098ad">
+          </div>
+          
+          <div class="color-chip" id="cyan-8">
+            <div class="ripple color-chip-bg bg-cyan-8">
+            </div>
+            <div class="color-name">cyan 8</div>
+            <input class="color-hex" type="text" readonly="" value="#0c8599">
+          </div>
+          
+          <div class="color-chip" id="cyan-9">
+            <div class="ripple color-chip-bg bg-cyan-9">
+            </div>
+            <div class="color-name">cyan 9</div>
+            <input class="color-hex" type="text" readonly="" value="#0b7285">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="teal">
+      <h3 class="color-title">
+        teal
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="teal-0">
+            <div class="ripple color-chip-bg bg-teal-0">
+            </div>
+            <div class="color-name">teal 0</div>
+            <input class="color-hex" type="text" readonly="" value="#e6fcf5">
+          </div>
+          
+          <div class="color-chip" id="teal-1">
+            <div class="ripple color-chip-bg bg-teal-1">
+            </div>
+            <div class="color-name">teal 1</div>
+            <input class="color-hex" type="text" readonly="" value="#c3fae8">
+          </div>
+          
+          <div class="color-chip" id="teal-2">
+            <div class="ripple color-chip-bg bg-teal-2">
+            </div>
+            <div class="color-name">teal 2</div>
+            <input class="color-hex" type="text" readonly="" value="#96f2d7">
+          </div>
+          
+          <div class="color-chip" id="teal-3">
+            <div class="ripple color-chip-bg bg-teal-3">
+            </div>
+            <div class="color-name">teal 3</div>
+            <input class="color-hex" type="text" readonly="" value="#63e6be">
+          </div>
+          
+          <div class="color-chip" id="teal-4">
+            <div class="ripple color-chip-bg bg-teal-4">
+            </div>
+            <div class="color-name">teal 4</div>
+            <input class="color-hex" type="text" readonly="" value="#38d9a9">
+          </div>
+          
+          <div class="color-chip" id="teal-5">
+            <div class="ripple color-chip-bg bg-teal-5">
+            </div>
+            <div class="color-name">teal 5</div>
+            <input class="color-hex" type="text" readonly="" value="#20c997">
+          </div>
+          
+          <div class="color-chip" id="teal-6">
+            <div class="ripple color-chip-bg bg-teal-6">
+            </div>
+            <div class="color-name">teal 6</div>
+            <input class="color-hex" type="text" readonly="" value="#12b886">
+          </div>
+          
+          <div class="color-chip" id="teal-7">
+            <div class="ripple color-chip-bg bg-teal-7">
+            </div>
+            <div class="color-name">teal 7</div>
+            <input class="color-hex" type="text" readonly="" value="#0ca678">
+          </div>
+          
+          <div class="color-chip" id="teal-8">
+            <div class="ripple color-chip-bg bg-teal-8">
+            </div>
+            <div class="color-name">teal 8</div>
+            <input class="color-hex" type="text" readonly="" value="#099268">
+          </div>
+          
+          <div class="color-chip" id="teal-9">
+            <div class="ripple color-chip-bg bg-teal-9">
+            </div>
+            <div class="color-name">teal 9</div>
+            <input class="color-hex" type="text" readonly="" value="#087f5b">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="green">
+      <h3 class="color-title">
+        green
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="green-0">
+            <div class="ripple color-chip-bg bg-green-0">
+            </div>
+            <div class="color-name">green 0</div>
+            <input class="color-hex" type="text" readonly="" value="#ebfbee">
+          </div>
+          
+          <div class="color-chip" id="green-1">
+            <div class="ripple color-chip-bg bg-green-1">
+            </div>
+            <div class="color-name">green 1</div>
+            <input class="color-hex" type="text" readonly="" value="#d3f9d8">
+          </div>
+          
+          <div class="color-chip" id="green-2">
+            <div class="ripple color-chip-bg bg-green-2">
+            </div>
+            <div class="color-name">green 2</div>
+            <input class="color-hex" type="text" readonly="" value="#b2f2bb">
+          </div>
+          
+          <div class="color-chip" id="green-3">
+            <div class="ripple color-chip-bg bg-green-3">
+            </div>
+            <div class="color-name">green 3</div>
+            <input class="color-hex" type="text" readonly="" value="#8ce99a">
+          </div>
+          
+          <div class="color-chip" id="green-4">
+            <div class="ripple color-chip-bg bg-green-4">
+            </div>
+            <div class="color-name">green 4</div>
+            <input class="color-hex" type="text" readonly="" value="#69db7c">
+          </div>
+          
+          <div class="color-chip" id="green-5">
+            <div class="ripple color-chip-bg bg-green-5">
+            </div>
+            <div class="color-name">green 5</div>
+            <input class="color-hex" type="text" readonly="" value="#51cf66">
+          </div>
+          
+          <div class="color-chip" id="green-6">
+            <div class="ripple color-chip-bg bg-green-6">
+            </div>
+            <div class="color-name">green 6</div>
+            <input class="color-hex" type="text" readonly="" value="#40c057">
+          </div>
+          
+          <div class="color-chip" id="green-7">
+            <div class="ripple color-chip-bg bg-green-7">
+            </div>
+            <div class="color-name">green 7</div>
+            <input class="color-hex" type="text" readonly="" value="#37b24d">
+          </div>
+          
+          <div class="color-chip" id="green-8">
+            <div class="ripple color-chip-bg bg-green-8">
+            </div>
+            <div class="color-name">green 8</div>
+            <input class="color-hex" type="text" readonly="" value="#2f9e44">
+          </div>
+          
+          <div class="color-chip" id="green-9">
+            <div class="ripple color-chip-bg bg-green-9">
+            </div>
+            <div class="color-name">green 9</div>
+            <input class="color-hex" type="text" readonly="" value="#2b8a3e">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="lime">
+      <h3 class="color-title">
+        lime
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="lime-0">
+            <div class="ripple color-chip-bg bg-lime-0">
+            </div>
+            <div class="color-name">lime 0</div>
+            <input class="color-hex" type="text" readonly="" value="#f4fce3">
+          </div>
+          
+          <div class="color-chip" id="lime-1">
+            <div class="ripple color-chip-bg bg-lime-1">
+            </div>
+            <div class="color-name">lime 1</div>
+            <input class="color-hex" type="text" readonly="" value="#e9fac8">
+          </div>
+          
+          <div class="color-chip" id="lime-2">
+            <div class="ripple color-chip-bg bg-lime-2">
+            </div>
+            <div class="color-name">lime 2</div>
+            <input class="color-hex" type="text" readonly="" value="#d8f5a2">
+          </div>
+          
+          <div class="color-chip" id="lime-3">
+            <div class="ripple color-chip-bg bg-lime-3">
+            </div>
+            <div class="color-name">lime 3</div>
+            <input class="color-hex" type="text" readonly="" value="#c0eb75">
+          </div>
+          
+          <div class="color-chip" id="lime-4">
+            <div class="ripple color-chip-bg bg-lime-4">
+            </div>
+            <div class="color-name">lime 4</div>
+            <input class="color-hex" type="text" readonly="" value="#a9e34b">
+          </div>
+          
+          <div class="color-chip" id="lime-5">
+            <div class="ripple color-chip-bg bg-lime-5">
+            </div>
+            <div class="color-name">lime 5</div>
+            <input class="color-hex" type="text" readonly="" value="#94d82d">
+          </div>
+          
+          <div class="color-chip" id="lime-6">
+            <div class="ripple color-chip-bg bg-lime-6">
+            </div>
+            <div class="color-name">lime 6</div>
+            <input class="color-hex" type="text" readonly="" value="#82c91e">
+          </div>
+          
+          <div class="color-chip" id="lime-7">
+            <div class="ripple color-chip-bg bg-lime-7">
+            </div>
+            <div class="color-name">lime 7</div>
+            <input class="color-hex" type="text" readonly="" value="#74b816">
+          </div>
+          
+          <div class="color-chip" id="lime-8">
+            <div class="ripple color-chip-bg bg-lime-8">
+            </div>
+            <div class="color-name">lime 8</div>
+            <input class="color-hex" type="text" readonly="" value="#66a80f">
+          </div>
+          
+          <div class="color-chip" id="lime-9">
+            <div class="ripple color-chip-bg bg-lime-9">
+            </div>
+            <div class="color-name">lime 9</div>
+            <input class="color-hex" type="text" readonly="" value="#5c940d">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="yellow">
+      <h3 class="color-title">
+        yellow
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="yellow-0">
+            <div class="ripple color-chip-bg bg-yellow-0">
+            </div>
+            <div class="color-name">yellow 0</div>
+            <input class="color-hex" type="text" readonly="" value="#fff9db">
+          </div>
+          
+          <div class="color-chip" id="yellow-1">
+            <div class="ripple color-chip-bg bg-yellow-1">
+            </div>
+            <div class="color-name">yellow 1</div>
+            <input class="color-hex" type="text" readonly="" value="#fff3bf">
+          </div>
+          
+          <div class="color-chip" id="yellow-2">
+            <div class="ripple color-chip-bg bg-yellow-2">
+            </div>
+            <div class="color-name">yellow 2</div>
+            <input class="color-hex" type="text" readonly="" value="#ffec99">
+          </div>
+          
+          <div class="color-chip" id="yellow-3">
+            <div class="ripple color-chip-bg bg-yellow-3">
+            </div>
+            <div class="color-name">yellow 3</div>
+            <input class="color-hex" type="text" readonly="" value="#ffe066">
+          </div>
+          
+          <div class="color-chip" id="yellow-4">
+            <div class="ripple color-chip-bg bg-yellow-4">
+            </div>
+            <div class="color-name">yellow 4</div>
+            <input class="color-hex" type="text" readonly="" value="#ffd43b">
+          </div>
+          
+          <div class="color-chip" id="yellow-5">
+            <div class="ripple color-chip-bg bg-yellow-5">
+            </div>
+            <div class="color-name">yellow 5</div>
+            <input class="color-hex" type="text" readonly="" value="#fcc419">
+          </div>
+          
+          <div class="color-chip" id="yellow-6">
+            <div class="ripple color-chip-bg bg-yellow-6">
+            </div>
+            <div class="color-name">yellow 6</div>
+            <input class="color-hex" type="text" readonly="" value="#fab005">
+          </div>
+          
+          <div class="color-chip" id="yellow-7">
+            <div class="ripple color-chip-bg bg-yellow-7">
+            </div>
+            <div class="color-name">yellow 7</div>
+            <input class="color-hex" type="text" readonly="" value="#f59f00">
+          </div>
+          
+          <div class="color-chip" id="yellow-8">
+            <div class="ripple color-chip-bg bg-yellow-8">
+            </div>
+            <div class="color-name">yellow 8</div>
+            <input class="color-hex" type="text" readonly="" value="#f08c00">
+          </div>
+          
+          <div class="color-chip" id="yellow-9">
+            <div class="ripple color-chip-bg bg-yellow-9">
+            </div>
+            <div class="color-name">yellow 9</div>
+            <input class="color-hex" type="text" readonly="" value="#e67700">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="color-group" id="orange">
+      <h3 class="color-title">
+        orange
+      </h3>
+      <div class="color-chips-wrap">
+        <div class="color-chips">
+          
+          
+          <div class="color-chip" id="orange-0">
+            <div class="ripple color-chip-bg bg-orange-0">
+            </div>
+            <div class="color-name">orange 0</div>
+            <input class="color-hex" type="text" readonly="" value="#fff4e6">
+          </div>
+          
+          <div class="color-chip" id="orange-1">
+            <div class="ripple color-chip-bg bg-orange-1">
+            </div>
+            <div class="color-name">orange 1</div>
+            <input class="color-hex" type="text" readonly="" value="#ffe8cc">
+          </div>
+          
+          <div class="color-chip" id="orange-2">
+            <div class="ripple color-chip-bg bg-orange-2">
+            </div>
+            <div class="color-name">orange 2</div>
+            <input class="color-hex" type="text" readonly="" value="#ffd8a8">
+          </div>
+          
+          <div class="color-chip" id="orange-3">
+            <div class="ripple color-chip-bg bg-orange-3">
+            </div>
+            <div class="color-name">orange 3</div>
+            <input class="color-hex" type="text" readonly="" value="#ffc078">
+          </div>
+          
+          <div class="color-chip" id="orange-4">
+            <div class="ripple color-chip-bg bg-orange-4">
+            </div>
+            <div class="color-name">orange 4</div>
+            <input class="color-hex" type="text" readonly="" value="#ffa94d">
+          </div>
+          
+          <div class="color-chip" id="orange-5">
+            <div class="ripple color-chip-bg bg-orange-5">
+            </div>
+            <div class="color-name">orange 5</div>
+            <input class="color-hex" type="text" readonly="" value="#ff922b">
+          </div>
+          
+          <div class="color-chip" id="orange-6">
+            <div class="ripple color-chip-bg bg-orange-6">
+            </div>
+            <div class="color-name">orange 6</div>
+            <input class="color-hex" type="text" readonly="" value="#fd7e14">
+          </div>
+          
+          <div class="color-chip" id="orange-7">
+            <div class="ripple color-chip-bg bg-orange-7">
+            </div>
+            <div class="color-name">orange 7</div>
+            <input class="color-hex" type="text" readonly="" value="#f76707">
+          </div>
+          
+          <div class="color-chip" id="orange-8">
+            <div class="ripple color-chip-bg bg-orange-8">
+            </div>
+            <div class="color-name">orange 8</div>
+            <input class="color-hex" type="text" readonly="" value="#e8590c">
+          </div>
+          
+          <div class="color-chip" id="orange-9">
+            <div class="ripple color-chip-bg bg-orange-9">
+            </div>
+            <div class="color-name">orange 9</div>
+            <input class="color-hex" type="text" readonly="" value="#d9480f">
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    
+  </section>
+</div>
+
+    </div>
+  
+
+</body></html>
+------MultipartBoundary--J0DSIFmUClVm9wqNSPZqcpEhXBCIVYh6mMDIUBRZOB----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://yeun.github.io/open-color/stylesheets/normalize.css
+
+@charset "utf-8";
+
+html { font-family: sans-serif; text-size-adjust: 100%; }
+
+body { margin: 0px; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+
+audio, canvas, progress, video { display: inline-block; vertical-align: baseline; }
+
+audio:not([controls]) { display: none; height: 0px; }
+
+[hidden], template { display: none; }
+
+a { background-color: transparent; }
+
+a:active, a:hover { outline: 0px; }
+
+abbr[title] { border-bottom: 1px dotted; }
+
+b, strong { font-weight: bold; }
+
+dfn { font-style: italic; }
+
+h1 { font-size: 2em; margin: 0.67em 0px; }
+
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+
+sup { top: -0.5em; }
+
+sub { bottom: -0.25em; }
+
+img { border: 0px; }
+
+svg:not(:root) { overflow: hidden; }
+
+figure { margin: 1em 40px; }
+
+hr { box-sizing: content-box; height: 0px; }
+
+pre { overflow: auto; }
+
+code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+
+button, input, optgroup, select, textarea { color: inherit; font: inherit; margin: 0px; }
+
+button { overflow: visible; }
+
+button, select { text-transform: none; }
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] { appearance: button; cursor: pointer; }
+
+button[disabled], html input[disabled] { cursor: default; }
+
+input { line-height: normal; }
+
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0px; }
+
+input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button { height: auto; }
+
+input[type="search"] { appearance: textfield; box-sizing: content-box; }
+
+input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { appearance: none; }
+
+fieldset { border: 1px solid rgb(192, 192, 192); margin: 0px 2px; padding: 0.35em 0.625em 0.75em; }
+
+legend { border: 0px; padding: 0px; }
+
+textarea { overflow: auto; }
+
+optgroup { font-weight: bold; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+td, th { padding: 0px; }
+------MultipartBoundary--J0DSIFmUClVm9wqNSPZqcpEhXBCIVYh6mMDIUBRZOB----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://yeun.github.io/open-color/stylesheets/style.css
+
+@charset "utf-8";
+
+.clearfix::before, .clearfix::after { content: " "; display: table; }
+
+.clearfix::after { clear: both; }
+
+.container { margin-left: auto; margin-right: auto; padding-left: 4%; padding-right: 4%; max-width: 1000px; }
+
+.container::before, .container::after { content: " "; display: table; }
+
+.container::after { clear: both; }
+
+@media (max-width: 543px) {
+  .container { padding-left: 4.8%; padding-right: 4.8%; }
+}
+
+@media (min-width: 1600px) {
+  .container { max-width: 1600px; }
+}
+
+.row, .color-chips { margin-left: -2px; margin-right: -2px; }
+
+.row::before, .color-chips::before, .row::after, .color-chips::after { content: " "; display: table; }
+
+.row::after, .color-chips::after { clear: both; }
+
+.col-half { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 100%; }
+
+@media (min-width: 768px) {
+  .col-half { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 50%; }
+}
+
+.blog-logo { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 25%; }
+
+@media (min-width: 768px) {
+  .blog-logo { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 20%; }
+}
+
+@media (min-width: 1600px) {
+  .blog-logo { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 10%; }
+}
+
+.cover { margin-left: -2px; margin-right: -2px; }
+
+.cover::before, .cover::after { content: " "; display: table; }
+
+.cover::after { clear: both; }
+
+.cover-content { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 100%; }
+
+@media (min-width: 544px) {
+  .cover-content { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 75%; }
+}
+
+@media (min-width: 768px) {
+  .cover-content { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 80%; }
+}
+
+#carbonads { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 100%; }
+
+@media (min-width: 544px) {
+  #carbonads { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 25%; }
+}
+
+@media (min-width: 768px) {
+  #carbonads { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 20%; }
+}
+
+.shortcut-wrap .shortcut-menus { height: 232px; column-count: 2; column-gap: 4px; column-fill: auto; }
+
+@media (min-width: 544px) {
+  .shortcut-wrap .shortcut-menus { height: 150px; column-count: 4; }
+}
+
+@media (min-width: 768px) {
+  .shortcut-wrap .shortcut-menus { height: 110px; column-count: 5; }
+}
+
+@media (min-width: 1600px) {
+  .shortcut-wrap .shortcut-menus { height: 80px; column-count: 10; }
+}
+
+.color-chip { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 100%; }
+
+@media (min-width: 544px) {
+  .color-chip { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 25%; }
+}
+
+@media (min-width: 768px) {
+  .color-chip { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 20%; }
+}
+
+@media (min-width: 1600px) {
+  .color-chip { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 10%; }
+}
+
+@media (min-width: 544px) {
+  .docs-section, .introduction-section { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 75%; }
+}
+
+@media (min-width: 768px) {
+  .docs-section, .introduction-section { position: relative; min-height: 1px; padding-right: 2px; padding-left: 2px; float: left; width: 80%; }
+}
+
+a.blog-logo { display: inline-block; height: 63px; background: url("../asset/images/logo.svg") left center / 40px 40px no-repeat; vertical-align: top; }
+
+.metadata { padding: 0px; color: rgb(134, 142, 150); font-size: 12px; font-weight: 400; line-height: 18px; }
+
+.nav-menus-wrap { display: inline-block; margin: 0px; padding: 0px; float: right; }
+
+.nav-menus-group { position: relative; margin: 0px; list-style: none; float: left; }
+
+.nav-menus-group:hover .nav-menus, .nav-menus-group:focus .nav-menus, .nav-menus-group:active .nav-menus { display: block; }
+
+.menus-title { display: inline-block; margin: 10px 5px; padding: 10px 25px 13px; font-size: 14px; color: rgb(134, 142, 150); background-color: transparent; border: none; border-radius: 22px; transition: font-weight 0.2s ease 0s, background-color 0.2s ease 0s, color 0.2s ease 0s; }
+
+.menus-title:hover { color: rgb(73, 80, 87); background-color: rgb(241, 243, 245); }
+
+.menus-title:focus, .menus-title:active, .menus-title.active { color: rgb(73, 80, 87); font-weight: 700; background-color: rgb(241, 243, 245); }
+
+.nav-menus { position: absolute; top: 100%; left: 6px; z-index: 1000; display: none; float: left; min-width: 160px; margin: 0px; padding: 8px 0px; list-style: none; font-size: 12px; background-color: rgb(255, 255, 255); border: 1px solid rgb(206, 212, 218); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px; background-clip: padding-box; line-height: 24px; }
+
+.nav-menus > li > a { display: block; min-width: 160px; padding: 1px 40px 1px 20px; clear: both; font-size: 14px; font-weight: normal; color: rgb(134, 142, 150); line-height: 2.5; white-space: nowrap; transition: background 0.2s ease 0s, color 0.2s ease 0s; }
+
+.nav-menus > li > a:hover, .nav-menus > li > a:focus, .nav-menus > li > a:active { background-color: rgb(248, 249, 250); color: rgb(73, 80, 87); }
+
+#navbar-toggle, .navbar-toggle { display: none; }
+
+.navbar-toggle { z-index: 2; margin-bottom: 0px; padding: 0px; width: auto; font-weight: 400; float: right; }
+
+.navbar-toggle:hover::after { color: rgb(73, 80, 87); font-weight: 700; }
+
+.navbar-toggle::after { content: "MENU"; display: inline-block; margin-right: -4.8vw; padding: 15px 30px; background: transparent; text-align: center; font-size: 13px; color: rgb(73, 80, 87); line-height: 2.5; transition: all 0.5s linear 0s; box-sizing: border-box; }
+
+#navbar-toggle:checked + .navbar-toggle::after { color: rgb(73, 80, 87); font-weight: 700; }
+
+@media only screen and (max-width: 870px) {
+  .navbar-toggle { display: inline-block; position: relative; cursor: pointer; user-select: none; }
+  #navbar-toggle:checked ~ .nav-menus-wrap { display: block; opacity: 1; }
+  .nav-menus-wrap { display: none; opacity: 0; margin-left: 0px; padding: 70px 0px 20px; z-index: 1; background: rgb(255, 255, 255); text-align: center; }
+  .nav-menus-wrap::before, .nav-menus-wrap::after { content: " "; display: table; }
+  .nav-menus-wrap::after { clear: both; }
+  .nav-menus-group, .menus-title, .nav-menus { width: 100%; }
+  .nav-menus-group { margin-bottom: 10px; }
+  .menus-title:not(.menus-github), .menus-title:not(.menus-github):hover, .menus-title:not(.menus-github):focus, .menus-title:not(.menus-github):active, .menus-title:not(.menus-github).active { margin: 0px 0px 10px; padding: 10px 0px; color: rgb(73, 80, 87); font-weight: 700; }
+  .menus-github { margin: 0px; padding: 20px 0px; border: 1px solid rgb(206, 212, 218); border-radius: 3px; }
+  .nav-menus { display: block; position: relative; left: 0px; text-align: center; border: none; box-shadow: none; padding: 0px; }
+  .nav-menus .nav-menu { padding: 6px 0px; }
+}
+
+.cover { padding: 100px 0px; border-bottom: 1px solid rgb(222, 226, 230); }
+
+.cover h1 { margin: 0px 40px 40px 0px; font-weight: 600; color: rgb(73, 80, 87); font-size: 36px; line-height: 1.2; }
+
+.cover h1 .sub { padding-top: 20px; font-size: 18px; font-weight: 400; color: rgb(134, 142, 150); line-height: 1.5; }
+
+.shortcut-wrap { padding: 20px 0px; }
+
+.shortcut-wrap .shortcut-menus { list-style: none; margin-top: 0px; margin-bottom: 0px; padding: 0px; }
+
+.shortcut-wrap a.shortcut { display: block; padding: 6px 0px; width: 100%; font-size: 12px; color: rgb(134, 142, 150); font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease-out 0s; }
+
+.shortcut-wrap a.shortcut.gray:hover, .shortcut-wrap a.shortcut.gray:focus, .shortcut-wrap a.shortcut.gray:active { color: rgb(73, 80, 87); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-gray { background: rgb(73, 80, 87); }
+
+.shortcut-wrap a.shortcut.red:hover, .shortcut-wrap a.shortcut.red:focus, .shortcut-wrap a.shortcut.red:active { color: rgb(240, 62, 62); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-red { background: rgb(240, 62, 62); }
+
+.shortcut-wrap a.shortcut.pink:hover, .shortcut-wrap a.shortcut.pink:focus, .shortcut-wrap a.shortcut.pink:active { color: rgb(214, 51, 108); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-pink { background: rgb(214, 51, 108); }
+
+.shortcut-wrap a.shortcut.grape:hover, .shortcut-wrap a.shortcut.grape:focus, .shortcut-wrap a.shortcut.grape:active { color: rgb(174, 62, 201); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-grape { background: rgb(174, 62, 201); }
+
+.shortcut-wrap a.shortcut.violet:hover, .shortcut-wrap a.shortcut.violet:focus, .shortcut-wrap a.shortcut.violet:active { color: rgb(112, 72, 232); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-violet { background: rgb(112, 72, 232); }
+
+.shortcut-wrap a.shortcut.indigo:hover, .shortcut-wrap a.shortcut.indigo:focus, .shortcut-wrap a.shortcut.indigo:active { color: rgb(66, 99, 235); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-indigo { background: rgb(66, 99, 235); }
+
+.shortcut-wrap a.shortcut.blue:hover, .shortcut-wrap a.shortcut.blue:focus, .shortcut-wrap a.shortcut.blue:active { color: rgb(28, 126, 214); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-blue { background: rgb(28, 126, 214); }
+
+.shortcut-wrap a.shortcut.cyan:hover, .shortcut-wrap a.shortcut.cyan:focus, .shortcut-wrap a.shortcut.cyan:active { color: rgb(16, 152, 173); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-cyan { background: rgb(16, 152, 173); }
+
+.shortcut-wrap a.shortcut.teal:hover, .shortcut-wrap a.shortcut.teal:focus, .shortcut-wrap a.shortcut.teal:active { color: rgb(12, 166, 120); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-teal { background: rgb(12, 166, 120); }
+
+.shortcut-wrap a.shortcut.green:hover, .shortcut-wrap a.shortcut.green:focus, .shortcut-wrap a.shortcut.green:active { color: rgb(55, 178, 77); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-green { background: rgb(55, 178, 77); }
+
+.shortcut-wrap a.shortcut.lime:hover, .shortcut-wrap a.shortcut.lime:focus, .shortcut-wrap a.shortcut.lime:active { color: rgb(116, 184, 22); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-lime { background: rgb(116, 184, 22); }
+
+.shortcut-wrap a.shortcut.yellow:hover, .shortcut-wrap a.shortcut.yellow:focus, .shortcut-wrap a.shortcut.yellow:active { color: rgb(245, 159, 0); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-yellow { background: rgb(245, 159, 0); }
+
+.shortcut-wrap a.shortcut.orange:hover, .shortcut-wrap a.shortcut.orange:focus, .shortcut-wrap a.shortcut.orange:active { color: rgb(247, 103, 7); }
+
+.shortcut-wrap a.shortcut .list-color { display: inline-block; margin-top: -2px; margin-right: 10px; width: 12px; height: 12px; border-radius: 3px; vertical-align: middle; }
+
+.shortcut-wrap a.shortcut .list-color-orange { background: rgb(247, 103, 7); }
+
+.color-wrap { display: inline-block; }
+
+.color-group { padding-top: 40px; }
+
+.color-title { margin: 0px 0px 30px; font-size: 24px; text-transform: capitalize; font-weight: 700; line-height: 1.5; }
+
+.color-title span { margin-right: 0.5em; }
+
+.color-chips { text-align: center; }
+
+.color-chip { margin-bottom: 40px; line-height: 1.25; }
+
+.color-chip input[type="text"] { border: none; font-family: "Roboto Mono", monospace; background-color: transparent; }
+
+.color-name { padding: 14px 3px 2px; text-transform: uppercase; text-align: left; font-size: 14px; font-weight: 500; }
+
+.color-hex { padding: 2px 3px; width: 100%; font-size: 14px; color: rgb(134, 142, 150); line-height: 1.3; }
+
+.color-chip-bg { height: 80px; border-radius: 2px; position: relative; cursor: pointer; }
+
+.color-chip-bg span { position: absolute; top: 0px; left: 0px; margin: 10px; font-size: 12px; text-transform: uppercase; }
+
+.color-chip-bg:hover { transform: scale(0.92); }
+
+.ripple::before { content: ""; position: absolute; top: 50%; left: 50%; width: 0px; height: 0px; transform: translate(-50%, -50%); border-radius: 50%; background-color: rgb(255, 255, 255); visibility: hidden; z-index: 2; }
+
+.ripple:not(:active)::before { animation: 0.3s cubic-bezier(0, 0.4, 0.8, 1) 0s 1 normal none running ripple; transition: visibility 0.2s step-end 0s; }
+
+.ripple:active::before { visibility: visible; }
+
+@keyframes ripple { 
+  0% { width: 0px; height: 0px; opacity: 0; }
+  100% { width: 212px; height: 212px; opacity: 0.18; }
+}
+
+.bg-gray-0 { background-color: rgb(248, 249, 250); }
+
+.bg-gray-1 { background-color: rgb(241, 243, 245); }
+
+.bg-gray-2 { background-color: rgb(233, 236, 239); }
+
+.bg-gray-3 { background-color: rgb(222, 226, 230); }
+
+.bg-gray-4 { background-color: rgb(206, 212, 218); }
+
+.bg-gray-5 { background-color: rgb(173, 181, 189); }
+
+.bg-gray-6 { background-color: rgb(134, 142, 150); }
+
+.bg-gray-7 { background-color: rgb(73, 80, 87); }
+
+.bg-gray-8 { background-color: rgb(52, 58, 64); }
+
+.bg-gray-9 { background-color: rgb(33, 37, 41); }
+
+.bg-red-0 { background-color: rgb(255, 245, 245); }
+
+.bg-red-1 { background-color: rgb(255, 227, 227); }
+
+.bg-red-2 { background-color: rgb(255, 201, 201); }
+
+.bg-red-3 { background-color: rgb(255, 168, 168); }
+
+.bg-red-4 { background-color: rgb(255, 135, 135); }
+
+.bg-red-5 { background-color: rgb(255, 107, 107); }
+
+.bg-red-6 { background-color: rgb(250, 82, 82); }
+
+.bg-red-7 { background-color: rgb(240, 62, 62); }
+
+.bg-red-8 { background-color: rgb(224, 49, 49); }
+
+.bg-red-9 { background-color: rgb(201, 42, 42); }
+
+.bg-pink-0 { background-color: rgb(255, 240, 246); }
+
+.bg-pink-1 { background-color: rgb(255, 222, 235); }
+
+.bg-pink-2 { background-color: rgb(252, 194, 215); }
+
+.bg-pink-3 { background-color: rgb(250, 162, 193); }
+
+.bg-pink-4 { background-color: rgb(247, 131, 172); }
+
+.bg-pink-5 { background-color: rgb(240, 101, 149); }
+
+.bg-pink-6 { background-color: rgb(230, 73, 128); }
+
+.bg-pink-7 { background-color: rgb(214, 51, 108); }
+
+.bg-pink-8 { background-color: rgb(194, 37, 92); }
+
+.bg-pink-9 { background-color: rgb(166, 30, 77); }
+
+.bg-grape-0 { background-color: rgb(248, 240, 252); }
+
+.bg-grape-1 { background-color: rgb(243, 217, 250); }
+
+.bg-grape-2 { background-color: rgb(238, 190, 250); }
+
+.bg-grape-3 { background-color: rgb(229, 153, 247); }
+
+.bg-grape-4 { background-color: rgb(218, 119, 242); }
+
+.bg-grape-5 { background-color: rgb(204, 93, 232); }
+
+.bg-grape-6 { background-color: rgb(190, 75, 219); }
+
+.bg-grape-7 { background-color: rgb(174, 62, 201); }
+
+.bg-grape-8 { background-color: rgb(156, 54, 181); }
+
+.bg-grape-9 { background-color: rgb(134, 46, 156); }
+
+.bg-violet-0 { background-color: rgb(243, 240, 255); }
+
+.bg-violet-1 { background-color: rgb(229, 219, 255); }
+
+.bg-violet-2 { background-color: rgb(208, 191, 255); }
+
+.bg-violet-3 { background-color: rgb(177, 151, 252); }
+
+.bg-violet-4 { background-color: rgb(151, 117, 250); }
+
+.bg-violet-5 { background-color: rgb(132, 94, 247); }
+
+.bg-violet-6 { background-color: rgb(121, 80, 242); }
+
+.bg-violet-7 { background-color: rgb(112, 72, 232); }
+
+.bg-violet-8 { background-color: rgb(103, 65, 217); }
+
+.bg-violet-9 { background-color: rgb(95, 61, 196); }
+
+.bg-indigo-0 { background-color: rgb(237, 242, 255); }
+
+.bg-indigo-1 { background-color: rgb(219, 228, 255); }
+
+.bg-indigo-2 { background-color: rgb(186, 200, 255); }
+
+.bg-indigo-3 { background-color: rgb(145, 167, 255); }
+
+.bg-indigo-4 { background-color: rgb(116, 143, 252); }
+
+.bg-indigo-5 { background-color: rgb(92, 124, 250); }
+
+.bg-indigo-6 { background-color: rgb(76, 110, 245); }
+
+.bg-indigo-7 { background-color: rgb(66, 99, 235); }
+
+.bg-indigo-8 { background-color: rgb(59, 91, 219); }
+
+.bg-indigo-9 { background-color: rgb(54, 79, 199); }
+
+.bg-blue-0 { background-color: rgb(231, 245, 255); }
+
+.bg-blue-1 { background-color: rgb(208, 235, 255); }
+
+.bg-blue-2 { background-color: rgb(165, 216, 255); }
+
+.bg-blue-3 { background-color: rgb(116, 192, 252); }
+
+.bg-blue-4 { background-color: rgb(77, 171, 247); }
+
+.bg-blue-5 { background-color: rgb(51, 154, 240); }
+
+.bg-blue-6 { background-color: rgb(34, 139, 230); }
+
+.bg-blue-7 { background-color: rgb(28, 126, 214); }
+
+.bg-blue-8 { background-color: rgb(25, 113, 194); }
+
+.bg-blue-9 { background-color: rgb(24, 100, 171); }
+
+.bg-cyan-0 { background-color: rgb(227, 250, 252); }
+
+.bg-cyan-1 { background-color: rgb(197, 246, 250); }
+
+.bg-cyan-2 { background-color: rgb(153, 233, 242); }
+
+.bg-cyan-3 { background-color: rgb(102, 217, 232); }
+
+.bg-cyan-4 { background-color: rgb(59, 201, 219); }
+
+.bg-cyan-5 { background-color: rgb(34, 184, 207); }
+
+.bg-cyan-6 { background-color: rgb(21, 170, 191); }
+
+.bg-cyan-7 { background-color: rgb(16, 152, 173); }
+
+.bg-cyan-8 { background-color: rgb(12, 133, 153); }
+
+.bg-cyan-9 { background-color: rgb(11, 114, 133); }
+
+.bg-teal-0 { background-color: rgb(230, 252, 245); }
+
+.bg-teal-1 { background-color: rgb(195, 250, 232); }
+
+.bg-teal-2 { background-color: rgb(150, 242, 215); }
+
+.bg-teal-3 { background-color: rgb(99, 230, 190); }
+
+.bg-teal-4 { background-color: rgb(56, 217, 169); }
+
+.bg-teal-5 { background-color: rgb(32, 201, 151); }
+
+.bg-teal-6 { background-color: rgb(18, 184, 134); }
+
+.bg-teal-7 { background-color: rgb(12, 166, 120); }
+
+.bg-teal-8 { background-color: rgb(9, 146, 104); }
+
+.bg-teal-9 { background-color: rgb(8, 127, 91); }
+
+.bg-green-0 { background-color: rgb(235, 251, 238); }
+
+.bg-green-1 { background-color: rgb(211, 249, 216); }
+
+.bg-green-2 { background-color: rgb(178, 242, 187); }
+
+.bg-green-3 { background-color: rgb(140, 233, 154); }
+
+.bg-green-4 { background-color: rgb(105, 219, 124); }
+
+.bg-green-5 { background-color: rgb(81, 207, 102); }
+
+.bg-green-6 { background-color: rgb(64, 192, 87); }
+
+.bg-green-7 { background-color: rgb(55, 178, 77); }
+
+.bg-green-8 { background-color: rgb(47, 158, 68); }
+
+.bg-green-9 { background-color: rgb(43, 138, 62); }
+
+.bg-lime-0 { background-color: rgb(244, 252, 227); }
+
+.bg-lime-1 { background-color: rgb(233, 250, 200); }
+
+.bg-lime-2 { background-color: rgb(216, 245, 162); }
+
+.bg-lime-3 { background-color: rgb(192, 235, 117); }
+
+.bg-lime-4 { background-color: rgb(169, 227, 75); }
+
+.bg-lime-5 { background-color: rgb(148, 216, 45); }
+
+.bg-lime-6 { background-color: rgb(130, 201, 30); }
+
+.bg-lime-7 { background-color: rgb(116, 184, 22); }
+
+.bg-lime-8 { background-color: rgb(102, 168, 15); }
+
+.bg-lime-9 { background-color: rgb(92, 148, 13); }
+
+.bg-yellow-0 { background-color: rgb(255, 249, 219); }
+
+.bg-yellow-1 { background-color: rgb(255, 243, 191); }
+
+.bg-yellow-2 { background-color: rgb(255, 236, 153); }
+
+.bg-yellow-3 { background-color: rgb(255, 224, 102); }
+
+.bg-yellow-4 { background-color: rgb(255, 212, 59); }
+
+.bg-yellow-5 { background-color: rgb(252, 196, 25); }
+
+.bg-yellow-6 { background-color: rgb(250, 176, 5); }
+
+.bg-yellow-7 { background-color: rgb(245, 159, 0); }
+
+.bg-yellow-8 { background-color: rgb(240, 140, 0); }
+
+.bg-yellow-9 { background-color: rgb(230, 119, 0); }
+
+.bg-orange-0 { background-color: rgb(255, 244, 230); }
+
+.bg-orange-1 { background-color: rgb(255, 232, 204); }
+
+.bg-orange-2 { background-color: rgb(255, 216, 168); }
+
+.bg-orange-3 { background-color: rgb(255, 192, 120); }
+
+.bg-orange-4 { background-color: rgb(255, 169, 77); }
+
+.bg-orange-5 { background-color: rgb(255, 146, 43); }
+
+.bg-orange-6 { background-color: rgb(253, 126, 20); }
+
+.bg-orange-7 { background-color: rgb(247, 103, 7); }
+
+.bg-orange-8 { background-color: rgb(232, 89, 12); }
+
+.bg-orange-9 { background-color: rgb(217, 72, 15); }
+
+.color-tables { padding-top: 40px; margin-bottom: 60px; }
+
+.value-table { border-collapse: separate; font-size: 14px; width: 100%; }
+
+.value-table thead > tr > th { padding-top: 10px; padding-bottom: 10px; text-transform: uppercase; font-size: 14px; letter-spacing: 0.04em; line-height: 1; color: rgb(73, 80, 87); }
+
+.value-table tbody > tr > td { border-top: 1px solid rgb(233, 236, 239); }
+
+.value-table tr > th, .value-table tr > td { padding: 8px 12px; text-align: right; background-color: transparent; font-family: -apple-system, BlinkMacSystemFont, Lato, "Segoe UI", Verdana, Arial, sans-serif; width: calc(12.5%); color: rgb(134, 142, 150); transition: all 0.2s ease-out 0s; }
+
+.value-table tr > th.level, .value-table tr > td.level { text-align: left; }
+
+.value-table tr > th:first-child, .value-table tr > td:first-child { padding-left: 0px; }
+
+.value-table tr > th > .color-preview, .value-table tr > td > .color-preview { display: inline-block; margin-right: 4px; width: 16px; height: 16px; border-radius: 3px; vertical-align: text-top; }
+
+.value-table tr > td.level { min-width: 110px; text-transform: uppercase; letter-spacing: 0.05em; color: rgb(73, 80, 87); font-weight: 500; }
+
+.value-table > tbody > tr { transition: all 0.2s ease-out 0s; }
+
+.value-table > tbody > tr:hover { background-color: rgb(248, 249, 250); }
+
+.value-table > tbody > tr:hover > th, .value-table > tbody > tr:hover > td { color: rgb(73, 80, 87); }
+
+.value-table > tbody > tr:hover > th.rgb-red, .value-table > tbody > tr:hover > td.rgb-red { color: rgb(230, 73, 128); }
+
+.value-table > tbody > tr:hover > th.rgb-green, .value-table > tbody > tr:hover > td.rgb-green { color: rgb(18, 184, 134); }
+
+.value-table > tbody > tr:hover > th.rgb-blue, .value-table > tbody > tr:hover > td.rgb-blue { color: rgb(76, 110, 245); }
+
+@media (max-width: 879px) {
+  .value-table { margin-left: -4%; margin-right: -4%; width: 100vw; }
+  .value-table thead > tr > th:first-child, .value-table tbody > tr > td:first-child { padding-left: 4%; }
+  .value-table thead > tr > th:last-child, .value-table tbody > tr > td:last-child { padding-right: 4%; }
+}
+
+.docs-section, .introduction-section { padding: 40px 0px; }
+
+.docs-section::before, .docs-section::after, .introduction-section::before, .introduction-section::after { content: " "; display: table; }
+
+.docs-section::after, .introduction-section::after { clear: both; }
+
+.docs-title, .introduction-title { margin-top: 0px; margin-bottom: 30px; font-size: 24px; font-weight: 700; line-height: 1.5; }
+
+@media (max-width: 543px) {
+  .docs-title, .introduction-title { font-size: 20px; }
+}
+
+.docs-content, .introduction-content { font-size: 20px; line-height: 1.6; }
+
+@media (max-width: 543px) {
+  .docs-content, .introduction-content { font-size: 16px; }
+}
+
+.docs-content h5, .introduction-content h5 { font-size: 16px; margin-top: 0px; }
+
+.docs-content p, .introduction-content p { margin-top: 0px; }
+
+.docs-content ul, .introduction-content ul { padding-left: 1.5em; }
+
+.docs-content li .list-title, .introduction-content li .list-title { font-weight: 700; width: 100px; display: inline-block; }
+
+.docs-content .row, .docs-content .color-chips, .introduction-content .row, .introduction-content .color-chips { margin-left: -15px; margin-right: -15px; }
+
+.docs-content .row .col-half, .docs-content .color-chips .col-half, .introduction-content .row .col-half, .introduction-content .color-chips .col-half { padding-left: 15px; padding-right: 15px; }
+
+.docs-content .example, .introduction-content .example { margin-top: 2em; margin-bottom: 2em; }
+
+.docs-content .example .color-gray-0, .introduction-content .example .color-gray-0 { color: rgb(248, 249, 250); }
+
+.docs-content .example .bg-gray-0, .introduction-content .example .bg-gray-0 { background-color: rgb(248, 249, 250); }
+
+.docs-content .example .box.border-gray-0, .introduction-content .example .box.border-gray-0 { border: 1px solid rgb(248, 249, 250); }
+
+.docs-content .example .color-gray-1, .introduction-content .example .color-gray-1 { color: rgb(241, 243, 245); }
+
+.docs-content .example .bg-gray-1, .introduction-content .example .bg-gray-1 { background-color: rgb(241, 243, 245); }
+
+.docs-content .example .box.border-gray-1, .introduction-content .example .box.border-gray-1 { border: 1px solid rgb(241, 243, 245); }
+
+.docs-content .example .color-gray-2, .introduction-content .example .color-gray-2 { color: rgb(233, 236, 239); }
+
+.docs-content .example .bg-gray-2, .introduction-content .example .bg-gray-2 { background-color: rgb(233, 236, 239); }
+
+.docs-content .example .box.border-gray-2, .introduction-content .example .box.border-gray-2 { border: 1px solid rgb(233, 236, 239); }
+
+.docs-content .example .color-gray-3, .introduction-content .example .color-gray-3 { color: rgb(222, 226, 230); }
+
+.docs-content .example .bg-gray-3, .introduction-content .example .bg-gray-3 { background-color: rgb(222, 226, 230); }
+
+.docs-content .example .box.border-gray-3, .introduction-content .example .box.border-gray-3 { border: 1px solid rgb(222, 226, 230); }
+
+.docs-content .example .color-gray-4, .introduction-content .example .color-gray-4 { color: rgb(206, 212, 218); }
+
+.docs-content .example .bg-gray-4, .introduction-content .example .bg-gray-4 { background-color: rgb(206, 212, 218); }
+
+.docs-content .example .box.border-gray-4, .introduction-content .example .box.border-gray-4 { border: 1px solid rgb(206, 212, 218); }
+
+.docs-content .example .color-gray-5, .introduction-content .example .color-gray-5 { color: rgb(173, 181, 189); }
+
+.docs-content .example .bg-gray-5, .introduction-content .example .bg-gray-5 { background-color: rgb(173, 181, 189); }
+
+.docs-content .example .box.border-gray-5, .introduction-content .example .box.border-gray-5 { border: 1px solid rgb(173, 181, 189); }
+
+.docs-content .example .color-gray-6, .introduction-content .example .color-gray-6 { color: rgb(134, 142, 150); }
+
+.docs-content .example .bg-gray-6, .introduction-content .example .bg-gray-6 { background-color: rgb(134, 142, 150); }
+
+.docs-content .example .box.border-gray-6, .introduction-content .example .box.border-gray-6 { border: 1px solid rgb(134, 142, 150); }
+
+.docs-content .example .color-gray-7, .introduction-content .example .color-gray-7 { color: rgb(73, 80, 87); }
+
+.docs-content .example .bg-gray-7, .introduction-content .example .bg-gray-7 { background-color: rgb(73, 80, 87); }
+
+.docs-content .example .box.border-gray-7, .introduction-content .example .box.border-gray-7 { border: 1px solid rgb(73, 80, 87); }
+
+.docs-content .example .color-gray-8, .introduction-content .example .color-gray-8 { color: rgb(52, 58, 64); }
+
+.docs-content .example .bg-gray-8, .introduction-content .example .bg-gray-8 { background-color: rgb(52, 58, 64); }
+
+.docs-content .example .box.border-gray-8, .introduction-content .example .box.border-gray-8 { border: 1px solid rgb(52, 58, 64); }
+
+.docs-content .example .color-gray-9, .introduction-content .example .color-gray-9 { color: rgb(33, 37, 41); }
+
+.docs-content .example .bg-gray-9, .introduction-content .example .bg-gray-9 { background-color: rgb(33, 37, 41); }
+
+.docs-content .example .box.border-gray-9, .introduction-content .example .box.border-gray-9 { border: 1px solid rgb(33, 37, 41); }
+
+.docs-content .example .box, .introduction-content .example .box { padding: 2em 0px; text-align: center; border-radius: 4px; margin-bottom: 10px; display: block; width: 100%; border: 1px solid transparent; transition: background-color 0.2s ease 0s; }
+
+.docs-content .example .box > .box, .introduction-content .example .box > .box { margin: 2em 2em 0px; width: auto; }
+
+.docs-content .example .box.button, .introduction-content .example .box.button { background: rgb(255, 255, 255); border: 1px solid rgb(206, 212, 218); }
+
+.docs-content .example .box.button:hover, .docs-content .example .box.button:focus, .docs-content .example .box.button:active, .introduction-content .example .box.button:hover, .introduction-content .example .box.button:focus, .introduction-content .example .box.button:active { background-color: rgb(241, 243, 245); }
+
+.docs-content .example .box.button.bg-gray-0, .introduction-content .example .box.button.bg-gray-0 { background-color: rgb(248, 249, 250); }
+
+.docs-content .example .box.button.bg-gray-0:hover, .docs-content .example .box.button.bg-gray-0:focus, .docs-content .example .box.button.bg-gray-0:active, .introduction-content .example .box.button.bg-gray-0:hover, .introduction-content .example .box.button.bg-gray-0:focus, .introduction-content .example .box.button.bg-gray-0:active { background-color: rgb(233, 236, 239); }
+
+.highlight { margin-left: 0px; margin-right: 0px; padding: 20px 30px; background-color: rgb(248, 249, 250); border-radius: 4px; }
+
+pre { display: block; margin-top: 0px; margin-bottom: 0px; padding: 0px; line-height: 1.5; white-space: pre; overflow-wrap: break-word; word-break: break-all; }
+
+pre code { margin: 0px; padding: 0px; font-size: inherit; white-space: pre-wrap; word-break: break-all; background-color: transparent; border-radius: 0px; }
+
+@media (max-width: 543px) {
+  .cover { padding: 20px 0px; }
+  .cover h1 { margin-bottom: 30px; font-size: 26px; }
+  .cover h1 .sub { padding-top: 10px; font-size: 15px; }
+  .cover .version, .cover .license { display: inline-block; float: left; margin-right: 20px; }
+  .shortcut-wrap { padding: 10px 0px; }
+  .color-group, .color-tables { margin-top: 3vw; margin-bottom: 5vw; padding-top: 2vw; padding-bottom: 5vw; }
+  .color-title { margin-bottom: 5vw; padding: 2vw 0px; font-size: 20px; }
+  .color-chips { column-count: 2; column-gap: 4px; column-fill: auto; }
+  .color-chip { margin-bottom: 4vw; }
+  .color-chip-bg { width: 50px; height: 50px; float: left; border-radius: 6px; }
+  .color-name, .color-hex { width: calc(100% - 50px); float: left; }
+  .color-name { padding: 8px 0px 0px 12px; }
+  .color-hex { padding: 2px 0px 2px 12px; }
+  .value-table { margin-left: -4.8%; margin-right: -4.8%; width: 100vw; }
+  .value-table thead > tr > th, .value-table tbody > tr > td { padding: 12px; font-size: 14px; }
+  .value-table thead > tr > th:first-child, .value-table tbody > tr > td:first-child { padding-left: 4.8%; }
+  .value-table thead > tr > th:nth-child(5), .value-table tbody > tr > td:nth-child(5) { padding-right: 4.8%; }
+  .value-table thead > tr > th:nth-child(6), .value-table thead > tr > th:nth-child(7), .value-table thead > tr > th:nth-child(8), .value-table tbody > tr > td:nth-child(6), .value-table tbody > tr > td:nth-child(7), .value-table tbody > tr > td:nth-child(8) { display: none; }
+  @keyframes ripple { 
+  0% { width: 0px; height: 0px; opacity: 0; }
+  100% { width: 0px; height: 0px; opacity: 0; }
+}
+}
+
+#carbonads { display: none; float: right; overflow: hidden; text-transform: none; font-size: 12px; line-height: 1.5; }
+
+@media (max-width: 543px) {
+  #carbonads { margin-top: 50px; }
+}
+
+.carbon-text { color: rgb(134, 142, 150); transition: all 0.2s ease-out 0s; }
+
+.carbon-text:hover, .carbon-text:focus, .carbon-text:active { color: rgb(73, 80, 87); }
+
+#carbonads span { display: block; overflow: hidden; }
+
+.carbon-img { display: block; margin-bottom: 10px; }
+
+.carbon-img img { border-radius: 2px; }
+
+@media (max-width: 543px) {
+  .carbon-img { display: inline-block; margin-bottom: 0px; }
+}
+
+.carbon-text { display: block; text-align: left; }
+
+@media (max-width: 543px) {
+  .carbon-text { display: inline-block; width: calc(100% - 130px); padding-left: 20px; vertical-align: top; }
+}
+
+a.carbon-poweredby { display: block; margin-top: 10px; font-size: 11px; color: rgb(134, 142, 150); }
+
+a.carbon-poweredby:hover, a.carbon-poweredby:focus, a.carbon-poweredby:active { color: rgb(73, 80, 87); }
+
+@media (max-width: 543px) {
+  a.carbon-poweredby { margin-top: -22px; line-height: 2; margin-left: 150px; }
+}
+
+html { box-sizing: border-box; font-size: 14px; }
+
+*, ::before, ::after { box-sizing: inherit; }
+
+body { color: rgb(73, 80, 87); font-family: -apple-system, BlinkMacSystemFont, Lato, "Segoe UI", Verdana, Arial, sans-serif; font-size: 14px; line-height: 1.5; letter-spacing: 0px; text-size-adjust: none; }
+
+::selection { background: rgb(233, 236, 239); }
+
+a { color: rgb(51, 154, 240); text-decoration: none; }
+
+a:focus, a:hover { color: rgb(28, 126, 214); }
+
+abbr[title] { border-bottom: none; }
+
+hr { margin: 40px auto; width: 50%; height: 1px; border: none; background: rgb(222, 226, 230); }
+
+ul > li + li { margin-top: 0.25em; }
+
+.no-wrap { display: inline-block; white-space: nowrap; }
+
+.in-writing { margin-top: 40px; font-size: 22px; color: rgb(134, 142, 150); }
+------MultipartBoundary--J0DSIFmUClVm9wqNSPZqcpEhXBCIVYh6mMDIUBRZOB----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://yeun.github.io/open-color/asset/images/logo.svg
+
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 424 196" style="enable-background:new 0 0 424 196;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#495057;}
+</style>
+<g id="Artboard_1">
+	<path id="logos" class="st0" d="M71.8,195.5c-40,0-72.5-32.5-72.5-72.5V73c0-40,32.5-72.5,72.5-72.5S144.2,33,144.2,73v50
+		C144.2,163,111.8,195.5,71.8,195.5z M71.8,45.5c-15.2,0-27.5,12.3-27.5,27.5v50c0,15.2,12.3,27.5,27.5,27.5s27.5-12.3,27.5-27.5V73
+		C99.2,57.8,86.9,45.5,71.8,45.5z M347.2,76h54c12.4,0,22.5,10.1,22.5,22.5s-10,22.5-22.5,22.5h-54c-12.4,0-22.5-10.1-22.5-22.5
+		S334.8,76,347.2,76z M236.8,195.5c-40,0-72.5-32.5-72.5-72.5V73c0-40,32.5-72.5,72.5-72.5c25.9,0,49.8,13.8,62.8,36.2
+		c6.2,10.8,2.6,24.5-8.2,30.7c-10.8,6.2-24.5,2.6-30.7-8.2l0,0c-7.7-13.1-24.5-17.6-37.7-10c-8.5,4.9-13.8,14-13.8,23.8v50
+		c0,15.2,12.3,27.5,27.5,27.5c9.8,0,18.9-5.2,23.8-13.8c6.2-10.8,20-14.4,30.7-8.2c10.8,6.2,14.4,20,8.2,30.7l0,0
+		C286.5,181.7,262.6,195.4,236.8,195.5L236.8,195.5z"/>
+</g>
+</svg>
+
+------MultipartBoundary--J0DSIFmUClVm9wqNSPZqcpEhXBCIVYh6mMDIUBRZOB----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css?family=Roboto+Mono
+
+@charset "utf-8";
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SeW4AJ68SLwt.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_QOW4AJ68SLwt.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_R-W4AJ68SLwt.woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_S-W4AJ68SLwt.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SuW4AJ68SLwt.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW4AJ68SA.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--J0DSIFmUClVm9wqNSPZqcpEhXBCIVYh6mMDIUBRZOB----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css?family=Lato:100,300,400,700
+
+@charset "utf-8";
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 100; src: url("https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AUi-qNiXg7eU0.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 100; src: url("https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-qNiXg7Q.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 300; src: url("https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwaPGQ3q5d0N7w.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 300; src: url("https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 400; src: url("https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXiWtFCc.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 700; src: url("https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 700; src: url("https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--J0DSIFmUClVm9wqNSPZqcpEhXBCIVYh6mMDIUBRZOB------
