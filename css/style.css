@@ -241,6 +241,12 @@ transform: rotate(90deg);
 .upper-part .cta .sign {
   align-items: flex-start;
 }
+@media (min-width:1024px){
+  .upper-part .cta .sign{
+    padding-left:9rem;
+    padding-top: 4rem;
+  }
+}
 .upper-part .cta .sign h2 {
   color: #333;
 }
