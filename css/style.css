@@ -1325,6 +1325,7 @@ header .cta .sign .feedback h3 {
 }
 @media (min-width: 768px) {
   .all-sponser {
+    padding:4rem 6rem;
     column-gap: 8.2rem;
   }
   .sponser-holder {
