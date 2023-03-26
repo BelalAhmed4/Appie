@@ -186,9 +186,6 @@ header {
   color: #47484a;
   transition: 0.3s 0.1s all;
 }
-.fa-chevron-down:hover {
-  transform: rotate(180deg);
-}
 .nav .menu ul {
   list-style: none;
   gap: 2.8rem;
@@ -207,13 +204,72 @@ header {
   font-weight: 600;
   color: #181819;
 }
-.btn-cta {
-  background-color: #ff3e66;
-  border-color: transparent;
-  color: white;
-  font-weight: 500;
-  padding: 0.6rem 1.1rem;
+
+.butt-bar a {
+  position: relative;
+  text-decoration: none;
+  border: solid #bbb 0.1rem;
+  width: 70px;
+  border-radius: 30px;
+  overflow: hidden;
+  display: block;
 }
+.btn-cta span {
+  position: relative;
+  font-family: sans-serif;
+  font-size: 11px;
+  z-index: 1;
+  color: #fff;
+}
+/* button liquid animation */
+.liquid {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: -80px;
+  left: 0;
+  transition: 0.5s;
+}
+.butt-bar a:hover .liquid {
+  top: -120px;
+}
+
+.liquid:after,
+.liquid:before {
+  content: "";
+  position: absolute;
+  animation: animate infinite linear;
+  width: 200%;
+  height: 200%;
+  display: block;
+  top: 45%;
+  left: -80%;
+  transform: translate(-50%, -75%);
+  background: #000;
+}
+
+.liquid::before {
+  border-radius: 45%;
+  background-color: #ffb2c2;
+  animation: animate 10s infinite linear;
+}
+
+.liquid::after {
+  border-radius: 47%;
+  background: #ff3e66;
+  animation: animate 10s infinite linear;
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+/* End liquid animation */
 .fa-bars {
   font-size: 1.6rem;
   color: #0e1133;
@@ -1325,7 +1381,6 @@ header .cta .sign .feedback h3 {
 }
 @media (min-width: 768px) {
   .all-sponser {
-    padding:4rem 6rem;
     column-gap: 8.2rem;
   }
   .sponser-holder {
