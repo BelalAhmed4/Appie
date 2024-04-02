@@ -47,6 +47,9 @@ html {
 :root {
   --mainColor: #ff3e66;
 }
+::selection {
+  background-color: #ffb2c2;
+}
 header {
   position: relative;
   height: 57vh;
