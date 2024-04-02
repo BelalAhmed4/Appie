@@ -206,7 +206,7 @@ header {
 }
 .nav .menu ul div {
   align-items: center;
-  padding: 0.4rem;
+  padding: 1.5rem;
 }
 .nav .menu ul div:hover {
   background-color: #eef1f6;
@@ -477,7 +477,7 @@ input:focus::placeholder {
 }
 .upper-part .cta .sign .icon-container .fa-envelope {
   top: 57%;
-  transform: translate(1.4rem, -55%);
+  transform: translate(1.7rem, -55%);
   color: #888;
   font-size: 1.4rem;
   z-index: 2;
