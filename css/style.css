@@ -423,13 +423,13 @@ header {
   height: 42px;
   border-radius: 2rem;
 }
-input:focus {
+.upper-part .cta .sign input:focus {
   outline: transparent;
 }
 ::placeholder {
   transition: 0.3s all ease-out;
 }
-input:focus::placeholder {
+.upper-part .cta .sign input:focus::placeholder {
   color: transparent;
 }
 @media (min-width: 768px) {
@@ -1304,7 +1304,7 @@ header .cta .sign .feedback h3 {
 }
 .time-card .card-btn {
   cursor: pointer;
-  width: fit-content;
+  width: 88px;
   padding: 0.8rem 1.4rem;
   border-radius: 1.4rem;
   margin-left: 2.2rem;
