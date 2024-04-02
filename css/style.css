@@ -91,8 +91,11 @@ header {
 .gap-1rem {
   gap: 1.1rem;
 }
-.gap-04rem {
+.gap-08rem {
   gap: 0.8rem;
+}
+.gap-05rem {
+  gap: 0.5rem;
 }
 /* end gap space */
 .btn-cta {
@@ -104,6 +107,9 @@ header {
   font-weight: 500;
   border-radius: 1.6rem;
   border: solid 1px #bbb;
+}
+.btn-cta:active {
+  transform: scale(0.96);
 }
 .benefit {
   gap: 8px;
@@ -133,6 +139,9 @@ header {
 }
 .fly-up-box:hover {
   background-color: #ff7894;
+}
+.fly-up-box:active {
+  transform: scale(0.96);
 }
 .fly-up-icon {
   color: #eee;
@@ -255,6 +264,7 @@ header {
   top: -20px;
 }
 .hiddenMenu li {
+  cursor: pointer;
   margin-bottom: 19px;
   transition: ease 0.2s all;
   padding: 7px;
@@ -403,13 +413,14 @@ header {
   padding-bottom: 1.1rem;
 }
 .upper-part .cta .sign input {
+  margin-top: 6px;
   z-index: 1;
   margin-bottom: 4px;
   text-align: center;
   margin-left: 6px;
   border-color: transparent;
-  width: 23rem;
-  height: 3rem;
+  min-width: 23rem;
+  height: 42px;
   border-radius: 2rem;
 }
 input:focus {
@@ -417,10 +428,13 @@ input:focus {
 }
 @media (min-width: 768px) {
   .upper-part .cta .sign input {
-    width: 40rem;
+    min-width: 40rem;
   }
   .upper-part .cta .sign .icon-container {
-    width: 40rem;
+    min-width: 40rem;
+  }
+  .upper-part .cta .sign .icon-container::before {
+    min-width: 40rem;
   }
 }
 .upper-part .cta .sign .icon-container {
@@ -432,14 +446,14 @@ input:focus {
 }
 .upper-part .cta .sign .icon-container::before {
   content: "";
-  border-radius: 20px 20px;
+  border-radius: 30rem;
   position: absolute;
   z-index: 1;
-  height: 2.7rem;
+  height: 40px;
   width: 22rem;
   left: 0;
   top: 0;
-  transform: translate(3px, 0px);
+  transform: translate(3px, -4px);
   background-color: #ff3e66;
 }
 .upper-part .cta .sign .icon-container .icon {
@@ -474,8 +488,10 @@ header .cta .sign .feedback h3 {
   font-size: 1.4rem;
 }
 /***********************/
-/* customers photos */
+/* Customers photos */
 .upper-part .cta .sign .the4 {
+  margin-top: 6px;
+  margin-left: 11px;
   width: 20rem;
   justify-content: flex-start;
 }
@@ -577,6 +593,9 @@ header .cta .sign .feedback h3 {
   border: 1px solid #bbb;
   border-radius: 2rem;
   padding: 0.8rem 1.1rem;
+}
+.features .repeated-btn:active {
+  transform: scale(0.96);
 }
 .bottom-part .features .fa-solid {
   font-size: 1rem;
@@ -1013,7 +1032,7 @@ header .cta .sign .feedback h3 {
 .achievements-guiding .guiding-video .around-circle:hover {
   opacity: 0.5;
 }
-/*start section:guiding images and arrs*/
+/*S tart section:Guiding images and arrs*/
 .achievements-guiding .guiding-img-arrs {
   display: flex;
   flex-direction: column;
@@ -1038,10 +1057,6 @@ header .cta .sign .feedback h3 {
   font-size: 1.6rem;
   color: #555;
   display: none;
-  transition: 0.5s 0.2s all;
-}
-.same-hover:hover {
-  color: #ff7894;
 }
 @media (min-width: 768px) {
   .achievements-guiding .right-arr,
@@ -1051,9 +1066,9 @@ header .cta .sign .feedback h3 {
     align-items: center;
   }
 }
-/* end section: achevements and guidings */
+/* End Section: Achevements And Guidings */
 /*******************************/
-/* section : google play store app */
+/* Section : Google Play Store App */
 .section-app-store {
   width: 100%;
   padding: 3.2rem 2.4rem;
@@ -1284,9 +1299,13 @@ header .cta .sign .feedback h3 {
 }
 .time-card .card-btn {
   cursor: pointer;
+  width: fit-content;
   padding: 0.8rem 1.4rem;
   border-radius: 1.4rem;
   margin-left: 2.2rem;
+}
+.time-card .card-btn:active {
+  transform: scale(0.96);
 }
 .time-card .transparent {
   border: 1px solid #bec1c5;
@@ -1424,6 +1443,10 @@ header .cta .sign .feedback h3 {
 .for-icons .icon-circle {
   border: #eee 0.1rem solid;
   padding: 0.8rem;
+  transition: 0.3s ease all;
+}
+.for-icons .icon-circle:hover {
+  background-color: #ddd05a;
 }
 /* End user experience */
 .all-sponser {
@@ -1432,6 +1455,7 @@ header .cta .sign .feedback h3 {
   flex-wrap: wrap;
   gap: 1.8rem;
   margin-bottom: 3.2rem;
+  margin-inline: 1.1rem;
 }
 .sponser-holder {
   display: flex;
