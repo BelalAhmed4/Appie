@@ -426,6 +426,12 @@ header {
 input:focus {
   outline: transparent;
 }
+::placeholder {
+  transition: 0.3s all ease-out;
+}
+input:focus::placeholder {
+  color: transparent;
+}
 @media (min-width: 768px) {
   .upper-part .cta .sign input {
     min-width: 40rem;
@@ -462,16 +468,15 @@ input:focus {
 }
 .upper-part .cta .sign .icon-container .fa-arrow-right {
   cursor: pointer;
-  right: 0;
-  top: 50%;
+  right: -10px;
+  top: 57%;
   transform: translate(-1rem, -55%);
   color: #ff3e66;
   z-index: 2;
   font-size: 1.4rem;
 }
 .upper-part .cta .sign .icon-container .fa-envelope {
-  left: 0;
-  top: 50%;
+  top: 57%;
   transform: translate(1.4rem, -55%);
   color: #888;
   font-size: 1.4rem;
