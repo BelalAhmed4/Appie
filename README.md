@@ -2,7 +2,7 @@
 
 ## Overview
 
-APPIE is a modern, responsive web application template designed for various purposes. The project utilizes HTML, CSS, and JavaScript, incorporating libraries and frameworks to enhance functionality and user experience. The template includes a structured layout, custom styles, and interactive elements to provide a seamless user experience across devices.
+APPIE is a modern, responsive web application template utilizing HTML, CSS, and JavaScript. It incorporates libraries like Font Awesome, Google Fonts, and Ionicons to enhance functionality and user experience. Featuring a structured layout, custom styles, and interactive elements, APPIE ensures a seamless experience across all devices.
 
 ## Features
 
