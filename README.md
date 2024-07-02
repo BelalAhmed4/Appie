@@ -38,7 +38,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/appie.git
+   git clone https://github.com/BelalAhmed4/appie.git
    ```
 
 2. Navigate to the project directory:
